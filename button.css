@@ -1,0 +1,18 @@
+.button { 
+color: white;
+background-color: grey;
+padding: 16px;
+border-radius: 6px;
+transition: 0.3s;
+font-size:16px
+box-shadow: black 1px 1px 1px;
+}
+.button:hover{
+	background-color: pink;
+}
+
+#form-button{
+	text-align:center;
+	margin: 70px;
+	align-items: center
+ }

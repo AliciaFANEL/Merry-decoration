@@ -1,0 +1,17 @@
+.navbar{
+	justify-content: space-around;
+	align-items: center;
+	display: flex;
+	position: sticky;
+	top:0;
+	background-color: (0,0,0,0)
+}
+
+.nav-menu{
+	list-style: none;
+}
+
+.nav-item {
+	display: inline;
+	margin: 8px;
+}
