@@ -1,0 +1,29 @@
+.navbar{
+	justify-content: space-around;
+	align-items: center;
+	display: flex;
+	position: sticky;
+	top:0;
+	background-color: white;
+	font-family:'Lato', sans-serif;
+}
+
+.nav-menu{
+	list-style: none;
+	background-color:white;
+}
+
+.nav-item {
+	display: inline;
+	margin: 8px;
+}
+a{
+	font-size:20px;
+	font-weight:bold;
+	color:black;
+	background-color:white;
+}
+.logo{
+	margin:15px;
+}
+
